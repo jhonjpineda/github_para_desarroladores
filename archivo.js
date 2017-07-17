@@ -1,1 +1,1 @@
-alert("Edicion archivo");
+alert("EDITADO");
